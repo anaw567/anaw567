@@ -8,7 +8,7 @@
   body {
     margin: 0;
     padding: 0;
- 
+    background: url('https://github.com/anaw567/anaw567/blob/main/AbstractDigital-Dark.jpg)') no-repeat center center fixed;
     background-size: cover;
     font-family: Arial, sans-serif;
     color: gray;
